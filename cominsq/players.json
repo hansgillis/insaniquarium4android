@@ -1,0 +1,401 @@
+{
+    "player": 1, 
+    "players": [
+        {
+            "first_time": true, 
+            "name": "PLAYER 1", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 2", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 3", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 4", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 5", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 6", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 7", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }, 
+        {
+            "first_time": true, 
+            "name": "PLAYER 8", 
+            "save_adventure": "", 
+            "save_challenge": "", 
+            "save_time": "", 
+            "score": ""
+        }
+    ], 
+    "scores": {
+        "adventure": {
+            "tank1": [
+                {
+                    "name": "HOMERJAY", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "ZELDA", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "LALA", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "DIXIEWRITER", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "SAMSPADE", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ], 
+            "tank2": [
+                {
+                    "name": "BAASI1", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "DAVEDUDE", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "BUBRL", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "ILLYRIA", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "HERMITCRAB", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ], 
+            "tank3": [
+                {
+                    "name": "KANE", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "CLAIREBEAR", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "WUGGIES", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "JEBKSB1977", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "FIREDOG", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ], 
+            "tank4": [
+                {
+                    "name": "WOODRAT", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "MEATBOY", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "SPLAM11", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "WENDIGOWOLF", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "BUGSYMCD24", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ]
+        }, 
+        "challenge": {
+            "tank1": [
+                {
+                    "name": "SHAWN", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "SUKHBIR", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "TYSEN", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "WALTER", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "JB63", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ], 
+            "tank2": [
+                {
+                    "name": "MRSDBOLT", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "LEXI", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "GRUKX", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "CHERYL", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "RAMBOBEAR", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ], 
+            "tank3": [
+                {
+                    "name": "KINGDOM", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "INKMEI", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "WOLFPACKMAMA", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "HOTTENTOTS", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "DYNE", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ], 
+            "tank4": [
+                {
+                    "name": "MONKEYBOY", 
+                    "player": 0, 
+                    "time": "55:00"
+                }, 
+                {
+                    "name": "LILITH", 
+                    "player": 0, 
+                    "time": "56:00"
+                }, 
+                {
+                    "name": "HRACH", 
+                    "player": 0, 
+                    "time": "57:00"
+                }, 
+                {
+                    "name": "LOVEDOG", 
+                    "player": 0, 
+                    "time": "58:00"
+                }, 
+                {
+                    "name": "SYRINX", 
+                    "player": 0, 
+                    "time": "59:00"
+                }
+            ]
+        }, 
+        "time_trial": {
+            "tank1": [
+                {
+                    "name": "AMY", 
+                    "player": 0, 
+                    "score": 1000
+                }, 
+                {
+                    "name": "BEN", 
+                    "player": 0, 
+                    "score": 900
+                }, 
+                {
+                    "name": "BRENNA", 
+                    "player": 0, 
+                    "score": 800
+                }, 
+                {
+                    "name": "BRIAN", 
+                    "player": 0, 
+                    "score": 700
+                }, 
+                {
+                    "name": "CHAD", 
+                    "player": 0, 
+                    "score": 600
+                }
+            ], 
+            "tank2": [
+                {
+                    "name": "DAMON", 
+                    "player": 0, 
+                    "score": 1000
+                }, 
+                {
+                    "name": "DAVE", 
+                    "player": 0, 
+                    "score": 900
+                }, 
+                {
+                    "name": "DON", 
+                    "player": 0, 
+                    "score": 800
+                }, 
+                {
+                    "name": "ERIC", 
+                    "player": 0, 
+                    "score": 700
+                }, 
+                {
+                    "name": "GREG", 
+                    "player": 0, 
+                    "score": 600
+                }
+            ], 
+            "tank3": [
+                {
+                    "name": "HANS", 
+                    "player": 0, 
+                    "score": 1000
+                }, 
+                {
+                    "name": "JASON", 
+                    "player": 0, 
+                    "score": 900
+                }, 
+                {
+                    "name": "JEFF", 
+                    "player": 0, 
+                    "score": 800
+                }, 
+                {
+                    "name": "JOHN", 
+                    "player": 0, 
+                    "score": 700
+                }, 
+                {
+                    "name": "JOSH", 
+                    "player": 0, 
+                    "score": 600
+                }
+            ], 
+            "tank4": [
+                {
+                    "name": "JUNO", 
+                    "player": 0, 
+                    "score": 1000
+                }, 
+                {
+                    "name": "KATHY", 
+                    "player": 0, 
+                    "score": 900
+                }, 
+                {
+                    "name": "KATRINA", 
+                    "player": 0, 
+                    "score": 800
+                }, 
+                {
+                    "name": "MARK", 
+                    "player": 0, 
+                    "score": 700
+                }, 
+                {
+                    "name": "NICK", 
+                    "player": 0, 
+                    "score": 600
+                }
+            ]
+        }
+    }
+}
